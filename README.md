@@ -17,3 +17,7 @@ cd RShunter
 ls
 
 chmod +x *
+
+ls
+
+python2 BarOn.py
