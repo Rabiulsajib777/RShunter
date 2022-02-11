@@ -4,12 +4,12 @@
 
 #!/usr/bin/python2
 #coding=utf-8
-##banner##
-____    _       _ ___ ____
-/ ___|  / \     | |_ _| __ )
-\___ \ / _ \ _  | || ||  _ \
- ___) / ___ \ |_| || || |_) |
-|____/_/   \_\___/|___|____/
+
+
+/ ___|
+
+
+
 #The Credit For This Code Goes To HuNter Sajib
 
 
