@@ -1,9 +1,15 @@
-#!/bin/bash
-pkg install figlet -y
-figlet welcome sajib
 
 
+
+
+#!/usr/bin/python2
 #coding=utf-8
+##banner##
+____    _       _ ___ ____
+/ ___|  / \     | |_ _| __ )
+\___ \ / _ \ _  | || ||  _ \
+ ___) / ___ \ |_| || || |_) |
+|____/_/   \_\___/|___|____/
 #The Credit For This Code Goes To HuNter Sajib
 
 
