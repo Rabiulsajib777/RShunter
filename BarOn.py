@@ -1,4 +1,8 @@
-#!/usr/bin/python2
+#!/bin/bash
+pkg install figlet -y
+figlet welcome sajib
+
+
 #coding=utf-8
 #The Credit For This Code Goes To HuNter Sajib
 
