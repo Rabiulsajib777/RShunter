@@ -8,7 +8,7 @@ pip2 install requests
 
 pip2 install mechanize
 
-pkg install git https://github.com/Hunterboy111/RShunter.git
+pkg install git https://github.com/Rabiulsajib777/RShunter.git
 
 git clone 
 
